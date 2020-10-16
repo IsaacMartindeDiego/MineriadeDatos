@@ -3,3 +3,5 @@
 library(dplyr)
 
 summary(cars)
+
+hit(cars$speed)
